@@ -1,0 +1,28 @@
+# Ignore system files
+*.tmp
+*.log
+
+.DS_Store
+Thumbs.db
+
+
+# Windows system folders
+.vs/
+AppData/
+Application Data/
+Local Settings/
+My Documents/
+Cookies/
+Recent/
+NetHood/
+PrintHood/
+SendTo/
+Start Menu/
+Templates/
+
+# Ignore binaries
+*.exe
+*.dll
+
+# Ignore SQLite database if not required
+*.db
